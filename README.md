@@ -15,6 +15,24 @@ Por ejemplo, si N es 10, los múltiplos de 3 o 5 menores que 10 son 3,5,6 y 9 la
 ![](/img/punto1.png)
 
 
+## Punto 2: 
+Escribe un programa en Java que valide una contraseña. La contraseña debe cumplir con las siguientes reglas:
+
+Tener al menos 8 caracteres de longitud.
+
+Contener al menos una letra mayúscula y una letra minúscula.
+
+Contener al menos un número.
+
+Contener al menos uno de los siguientes caracteres especiales: !, @, #, $, %, ^, &, *.
+
+<br>
+
+*Solución:*
+
+![](/img/punto2.png)
+
+
 ## Punto 4: 
 
 A partir del siguiente código en Python, realiza una explicación del funcionamiento y una traducción al lenguaje Java.
