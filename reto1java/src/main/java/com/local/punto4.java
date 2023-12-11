@@ -7,7 +7,8 @@ public class punto4 {
 
 
         // EJERCICIO:
-        // El ejercicio tiene el fin de imprimir en pantalla una serie de 10 números, el siguiente número será el doble que el número anterior 
+        // El ejercicio tiene el fin de imprimir en pantalla una serie de 10 números, 
+        //el siguiente número será el doble que el número anterior 
 
         // Declarar las variables a & b como variable de tipo de dato entero
         int a = 0 , b = 1;
@@ -18,6 +19,9 @@ public class punto4 {
             a = b ; // el numero anterior tomará el valor del numero siguiente 
             b = a + b; // el numero siguiente tomara el valor de el boble del numero anterior
         }
-        System.out.println(" "); // se implime linea en blanco para separar la serie de numeros y verla con mejor claridad
+        System.out.println(" "); // se implime linea en blanco para separar la serie de numeros 
+        // y verla con mejor claridad
     }
 }
+
+
